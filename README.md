@@ -1,5 +1,5 @@
 ![learnyouhtml](./preview.png)
-
+------------
 # learnyouhtml
 
 [![NPM version][npm-image]][npm-url]
